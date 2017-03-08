@@ -34,6 +34,7 @@
 		
     <!-- Authentication Realms uses the above resource to handle credentials
     	 Do not edit. -->
+	
 	<Realm
 		className="org.apache.catalina.realm.DataSourceRealm" 
 		localDataSource="true"
